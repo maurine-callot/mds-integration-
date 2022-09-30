@@ -1,0 +1,22 @@
+.carre{
+    background-color: blueviolet;
+    width: 100px; 
+    height: 100px; 
+    display: flex; 
+    justify-content: center; 
+    color: transparent; 
+    font-size: 50px;
+    transition: all 2s ease-in-out;
+    margin: 10px;
+}
+
+.zone {
+
+    display: flex;
+
+}
+
+.noir {
+    background-color: black;
+}
+
